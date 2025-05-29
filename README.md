@@ -1,43 +1,41 @@
-Hi there, [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hello there; welcome 👋🏾
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering)
+[![LinkedIn Badge](https://img.shields.io/badge/-Adeyeye%20Ayomide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeyeyeayomide/)](https://www.linkedin.com/in/adeyeyeayomide/)
 
-Greetings! I'm Adeyeye Emmanuel, a dedicated tech enthusiast on a continuous learning path. 
-Currently mastering Next.js and Tailwind CSS for frontend development, 
-my aim is to create innovative solutions and contribute to the realm of software development. 
-Excited about the boundless possibilities that technology offers, 
-I am committed to pushing boundaries and making a meaningful impact through software. 
-Let's connect, collaborate, and work towards shaping the future!
+I'm a **Data Engineer** with a background in Computer Science and practical experience in building data pipelines, automating workflows, and working with cloud-native tools (AWS), SQL, and Python. I’m passionate about transforming raw data into actionable insights and enabling scalable, data-driven solutions.
 
+---
 
-## 👨‍💻 Stack & Languages 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="LinkedIn Badge"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="LinkedIn Badge"/> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="LinkedIn Badge"/>
+### 🚀 Quick Facts
 
-## 📱 Contact Me
+- 🧠 Currently learning: **Big Data Engineering**, **Spark**, **Airflow**, **ETL pipelines**, and **Cloud architecture** (AWS).
+- 💼 Open to roles in: **Data Engineering**, **Data Infrastructure**, or **Platform Engineering**.
+- 🔧 Skills: Python, SQL, AWS (S3, Lambda, Redshift), PostgreSQL, Apache Airflow, Git, Docker.
+- 🎓 AltSchool Africa (School of Engineering) graduate.
+- 📄 [View My Resume](#) *(Replace with actual link)*
+- 📬 Reach me at: **ayomideadeyeyee1@gmail.com**
 
-<div id="badges">
-  <a href="www.linkedin.com/in/AdeyeyeAyomide">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/adeyeyeayomidee">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+---
 
+### 📊 GitHub Stats
 
-## 👀 Vistors Count
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=manny-hub&show_icons=true&include_all_commits=true&hide_border=true" alt="Ayomide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manny-hub&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" /> |
+| ------------- | ------------- |
 
-<img src="https://profile-counter.glitch.me/Manny-hub/count.svg" />
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manny-hub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### ⏱️ GitHub Streak & Contributions
 
-## ⌨️ Most Used Languages 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manny-hub&theme=default" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-contribution-graph.ez4o.com/?username=manny-hub&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manny-hub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🧩 Let's Connect
 
-## 📊 GitHub Stats
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adeyeyeayomide) and let's build something amazing with data!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manny-hub)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manny-hub&theme=dark&hide_border=true&border_radius=3.5)](https://git.io/streak-stats)
